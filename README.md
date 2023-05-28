@@ -1,6 +1,6 @@
 # DIP 2023 Spring Final project
 Applied Digital Image Prcessing at National Taiwan University (NTU) CSIE
-# DIP 2023 Spring Final project
+
 
 ## Environment
 Since the need of packages of this project isn't a lot and isn't complex, so we list all the package we use and you can install youselves by pip install.
